@@ -2,7 +2,7 @@
 
 This is a template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app.
 
-## Ouutput...
+## [Output](https://github.com/imvickykumar999/Convert_Any_website_into_android_app/blob/master/app/src/main/java/com/example/mahbu/convertanywebsiteintoandroidapp/MainActivity.java)...
 
 [![ss](https://github.com/imvickykumar999/Convert_Any_website_into_android_app/blob/master/WhatsApp%20Image%202021-04-13%20at%2019.47.35.jpeg?raw=true)](https://github.com/imvickykumar999/Convert_Any_website_into_android_app/blob/master/app/src/main/AndroidManifest.xml)
 
