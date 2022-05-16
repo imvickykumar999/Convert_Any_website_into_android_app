@@ -178,41 +178,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="53" key="#Plugins" timestamp="1621945336141">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1648876518142">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="361" y="53" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1621945336141" />
-    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1618326710738">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1618326710738" />
-    <state x="93" y="93" width="1350" height="638" key="AVDManager" timestamp="1621945793548">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1621945793548" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1621976988085">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621976988085" />
-    <state width="1491" height="210" key="GridCell.Tab.0.bottom" timestamp="1618330355180">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618330355180" />
-    <state width="1491" height="210" key="GridCell.Tab.0.center" timestamp="1618330355180">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618330355180" />
-    <state width="1491" height="210" key="GridCell.Tab.0.left" timestamp="1618330355180">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618330355180" />
-    <state width="1491" height="210" key="GridCell.Tab.0.right" timestamp="1618330355180">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618330355180" />
-    <state x="471" y="221" key="com.android.tools.idea.run.deployment.SelectMultipleDevicesDialog" timestamp="1621945424258">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="471" y="221" key="com.android.tools.idea.run.deployment.SelectMultipleDevicesDialog/0.0.1536.824@0.0.1536.824" timestamp="1621945424258" />
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1648876518142" />
   </component>
 </project>
